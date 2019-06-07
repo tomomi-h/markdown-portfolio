@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Music
+  * Playing the drums
+  * Listening to jazz
+* Food
+  * Ram
+  * Waffle
+  * Pear
